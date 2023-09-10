@@ -1,0 +1,45 @@
+table,
+tr,
+th {
+    border: solid;
+    width: 900px;
+    height: 50px;
+}
+
+#i1 {
+    background-color: darkgrey;
+    border-right-color: blue;
+    border-top-color: darkgrey;
+    border-bottom-color: darkgrey;
+    border-left-color: darkgrey;
+}
+
+th {
+    background-color: lightgrey;
+    border-right-color: blue;
+    border-top-color: darkgrey;
+    border-bottom-color: darkgrey;
+    border-left-color: darkgrey;
+}
+
+p,
+#i2 {
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    border: 1px solid;
+    border-width: 1px;
+}
+
+#p1 {
+    background-color: gold;
+    border-color: gold;
+}
+
+#p2,
+#p3,
+#p4,
+#p5 {
+    background-color: skyblue;
+    border-color: skyblue;
+}

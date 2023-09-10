@@ -1,0 +1,44 @@
+table,
+th,
+tr,
+td {
+    border: solid;
+    border-collapse: collapse;
+    height: 40px;
+    width: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: left;
+}
+
+th {
+    background-color: green;
+    border-color: green;
+    color: white;
+}
+
+#i1,
+#i2,
+#i3,
+#i7,
+#i8,
+#i9,
+#i14,
+#i15,
+#i16 {
+    background-color: lightgray;
+    border-color: lightgray;
+}
+
+#i4,
+#i5,
+#i6,
+#i11,
+#i12,
+#i13,
+#i17,
+#i18,
+#i19 {
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
